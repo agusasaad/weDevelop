@@ -2,7 +2,7 @@
 
 ---
 
-### Podras ver todo el contenido del repositorio en [WeDevelop](https://we-delopp.vercel.app/)
+### Podras ver todo el contenido del repositorio en [WeDevelop](https://wedevelop.vercel.app/))
 
 ---
 
